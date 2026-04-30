@@ -3,3 +3,4 @@
 
 1. Removing duplicates
 2. Defining an index for insertion
+3. Bubble sort
